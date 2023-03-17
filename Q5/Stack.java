@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 
-// Note : To make the Stack thread safe, I can just add synchronized keyword in front of each method 
+// Note to the baazi-games Reviewer: To make the Stack thread safe, I can just add synchronized keyword in front of each method 
 // i.e syncronized keyword in front of push, pop, peek, isEmpty, and size
 
 public class Stack<T> {
